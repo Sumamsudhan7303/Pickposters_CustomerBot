@@ -1,0 +1,73 @@
+
+================================================================================
+
+Customer Name: Shankar
+Phone: 8667591737
+Product: Photo Frames
+Design Theme: Couple Frame 
+Delivery Timeline: Urgent (1-2 days +25%)
+Budget: 1500
+Additional Notes: I need to gift for my GF 
+Submitted: 2026-09-23 16:52:41
+
+CrewAI Summary:
+Order Summary for Pickposters Processing:
+
+Customer Name: Shankar  
+Phone Number: 8667591737  
+Product Ordered: Photo Frames  
+Design Theme: Couple Frame  
+Delivery Timeline: Urgent (1-2 days, with 25% surcharge applied)  
+Budget: 1500  
+Additional Notes: Customer intends to gift the item to his girlfriend  
+Order Submitted On: 2026-09-23 16:52:41  
+
+Please prioritize this order for urgent processing and ensure the couple frame design matches the gifting requirement.
+
+================================================================================
+
+Customer Name: Joel 
+Phone: 9787353958
+Product: Posters
+Design Theme: PULI 
+Delivery Timeline: Urgent (1-2 days +25%)
+Budget: 500
+Additional Notes: Puli bayangram aa irekanum 
+Submitted: 2026-09-23 17:06:35
+
+CrewAI Summary:
+Order Summary for Pickposters Processing:
+
+Customer Name: Joel
+Phone Number: 9787353958
+Product: Posters
+Design Theme: PULI
+Delivery Timeline: Urgent (1-2 days) with a 25% additional charge
+Budget: 500
+Additional Notes: Puli bayangram aa irekanum (Ensure the design includes Puli bayangram)
+Order Submitted On: 2026-09-23 17:06:35
+
+Please proceed with the design and printing according to the above specifications, prioritizing urgent delivery with the noted budget and additional design requirement.
+
+================================================================================
+Customer Name: Manoj Thiru
+Phone: 7845006426
+Product: Certificates
+Design Theme: Social Eagle Branding
+Delivery Timeline: Urgent (1-2 days +25%)
+Budget: 10000
+Additional Notes: Need student certifcates for Batch completion on URG 
+Submitted: 2026-09-23 17:23:09
+CrewAI Summary:
+Order Summary for Pickposters Processing:
+
+Customer Name: Manoj Thiru  
+Phone: 7845006426  
+Product: Certificates  
+Design Theme: Social Eagle Branding  
+Delivery Timeline: Urgent (1-2 days) with +25% surcharge  
+Budget: 10,000 INR  
+Additional Notes: Need student certificates for batch completion marked as URG (urgent)  
+Order Submitted On: 2026-09-23 17:23:09  
+
+Please prioritize the design and printing of student certificates with Social Eagle Branding theme, ensuring completion within 1-2 days delivery timeline with the specified budget and urgent status.
